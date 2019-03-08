@@ -1,0 +1,19 @@
+{
+  "config_dir": "C:\\Users\\Kristopher Gaming PC\\Desktop\\notifyme\\.pyupdater",
+  "app_config": {
+    "UPDATE_URLS": [
+      "https://hot-gamez.com"
+    ],
+    "MAX_DOWNLOAD_RETRIES": 3,
+    "COMPANY_NAME": "Hot-Gamez",
+    "UPDATE_PATCHES": true,
+    "DATA_DIR": "C:\\Users\\Kristopher Gaming PC\\Desktop\\notifyme",
+    "CLIENT_CONFIG_PATH": [
+      "client_config.py"
+    ],
+    "PLUGIN_CONFIGS": {},
+    "APP_NAME": "notifyme"
+  },
+  "count": 0,
+  "filename": "C:\\Users\\Kristopher Gaming PC\\Desktop\\notifyme\\.pyupdater\\config.pyu"
+}
