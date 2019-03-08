@@ -1,19 +1,31 @@
 {
+  "count": 0,
   "config_dir": "C:\\Users\\Kristopher Gaming PC\\Desktop\\notifyme\\.pyupdater",
   "app_config": {
-    "UPDATE_URLS": [
-      "https://hot-gamez.com"
-    ],
-    "MAX_DOWNLOAD_RETRIES": 3,
-    "COMPANY_NAME": "Hot-Gamez",
-    "UPDATE_PATCHES": true,
-    "DATA_DIR": "C:\\Users\\Kristopher Gaming PC\\Desktop\\notifyme",
+    "APP_NAME": "notifyme",
     "CLIENT_CONFIG_PATH": [
       "client_config.py"
     ],
+    "UPDATE_URLS": [
+      "https://hot-gamez.com"
+    ],
+    "DATA_DIR": "C:\\Users\\Kristopher Gaming PC\\Desktop\\notifyme",
+    "COMPANY_NAME": "Hot-Gamez",
+    "MAX_DOWNLOAD_RETRIES": 3,
     "PLUGIN_CONFIGS": {},
-    "APP_NAME": "notifyme"
+    "UPDATE_PATCHES": true
   },
-  "count": 0,
+  "keypack": {
+    "upload": {
+      "app_public": "xEhUJarSeb/3Zf7MJE31B3VRNmtEzJBrMdXIsKFcam0",
+      "signature": "KsCa7pvwHocqVrlCc67yNkelLktiXq1O+MUsgbl4s/2q4FEloATat2Nvz4DWjO13rprOxoMORGkEM0QiS0XwCQ"
+    },
+    "client": {
+      "offline_public": "HbYnchhQiZy2HKbDpauf6gJhriyDXrzSXAylGibCqQY"
+    },
+    "repo": {
+      "app_private": "LoyqvLz5cah0deUtdNrNCOMWIqkckkdE+PVG9mGrJzg"
+    }
+  },
   "filename": "C:\\Users\\Kristopher Gaming PC\\Desktop\\notifyme\\.pyupdater\\config.pyu"
 }
